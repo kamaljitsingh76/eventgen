@@ -4,7 +4,7 @@ mock
 pytest-cov
 docker==3.7.3
 pyOpenSSL
-lxml==4.3.4
+lxml==4.6.2
 pytest-mock>=1.10.4
 boto3
 requests>=2.18.4
