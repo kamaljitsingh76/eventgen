@@ -13,7 +13,7 @@ ujson>=1.35
 pyyaml
 httplib2
 jinja2
-urllib3==1.24.2
+urllib3==1.26.5
 pyOpenSSL
 flake8>=3.7.7
 yapf>=0.26.0
